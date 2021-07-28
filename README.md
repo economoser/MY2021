@@ -10,7 +10,7 @@ All codes were run on an iMac Pro (2017) with 3 GHz 10-Core Intel Xeon W process
 
 This repository contains the replication code for [Moser and Yared (2021)](https://www.nber.org/papers/w27062). The following files are included in the repository, in the order in which they need to be run:
 
-- master.m: Simulate an economy subject to optimal lockdown policy with and without commitment for [Moser and Yared (2021)](https://www.nber.org/papers/w27062). MATLAB master file that can also be called from Stata in master.do -- run this first!
+- [master.m](master.m): Simulate an economy subject to optimal lockdown policy with and without commitment for [Moser and Yared (2021)](https://www.nber.org/papers/w27062). MATLAB master file that can also be called from Stata in master.do -- run this first!
 - simulations.m: Simulate the evolution of key variables and return summary statistics. Called by master.m.
 - backward_induct_comm.m: Return the continuation value and the optimal lockdown policy from time tt to TT for a government with commitment. Called by simulations.m.
 - backward_induct_nocomm.m: Return the continuation value and the optimal lockdown policy from time tt to TT for a government without commitment. Called by simulations.m.
