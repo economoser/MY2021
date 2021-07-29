@@ -1,11 +1,6 @@
 # README for [Moser and Yared (2021)](https://www.nber.org/papers/w27062)
 
 
-## System requirements
-
-All codes were run on an iMac Pro (2017) with 3 GHz 10-Core Intel Xeon W processor and 128 GB 2666 MHz DDR4 memory running macOS Catalina Version 10.15.7. The codes were executed using MATLAB R2020b Update 3 (9.9.0.1538559) for all files in .M format and Stata/MP 15.1 for Mac (64-bit Intel) for all files in .DO format. The codes are compatible with other hardware, operating systems, and software versions.
-
-
 ## Description
 
 This repository contains the replication code and materials for [Moser and Yared (2021)](https://www.nber.org/papers/w27062).
@@ -30,6 +25,11 @@ The following code files are included in the repository, in the order in which t
 The repository also includes the following data used in the analysis:
 
 - **[IO_405_industries_RED.xlsx](IO_405_industries_RED.xlsx)**: Classification of materials used as intermediate inputs based on the Input-Output Accounts Data by the [U.S. Bureau of Economic Analysis](https://www.bea.gov/industry/input-output-accounts-data).
+
+
+## System requirements
+
+All codes were run on an iMac Pro (2017) with 3 GHz 10-Core Intel Xeon W processor and 128 GB 2666 MHz DDR4 memory running macOS Catalina Version 10.15.7. The codes were executed using MATLAB R2020b Update 3 (9.9.0.1538559) for all files in .M format and Stata/MP 15.1 for Mac (64-bit Intel) for all files in .DO format. The codes are compatible with other hardware, operating systems, and software versions.
 
 
 ## Computation time
