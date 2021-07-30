@@ -44,4 +44,4 @@ No random numbers are used in the analysis.
 
 ## References
 
-[Moser, Christian and Pierre Yared. 2021. "Pandemic Lockdown: The Role of Government Commitment." NBER Working Paper No. 27062 (conditionally accepted at Review of Economic Dynamics).](https://www.nber.org/papers/w27062)
+[Moser, Christian and Pierre Yared. 2021. "Pandemic Lockdown: The Role of Government Commitment." Conditionally accepted at Review of Economic Dynamics.](MY2021.pdf)
